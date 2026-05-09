@@ -61,19 +61,19 @@ def shap_explain(explainer, feat_vec: np.ndarray, feature_names: list, top_n: in
 def combined_level(if_score: float, threshold_if: float, lstm_anom: bool, cusum_alarm: bool = False):
     """
     Retourne (level, label, detector_name)
-    level : str (DOUBLE_ALERT, ALERT_IF, SUSPECT_LSTM, WARNING_CUSUM, NORMAL)
+    - level : "alert_high" (double), "alert" (IF seul), "warning" (LSTM seul), "normal"
     """
-    if_alert = if_score < threshold_if   # plus négatif = anormal
-    if if_alert and (lstm_anom or cusum_alarm):
-        return ("DOUBLE_ALERT", "Double alerte", "IF+LSTM")
+    if_alert = if_score < threshold_if   # score plus bas que seuil = anomalie
+    if if_alert and lstm_anom:
+        return ("alert_high", "Double alerte", "BOTH")
     if if_alert:
-        return ("ALERT_IF", "Alerte Isolation Forest", "IF")
+        return ("alert", "Alerte IF", "IF")
     if lstm_anom:
-        return ("SUSPECT_LSTM", "Suspect LSTM", "LSTM")
+        return ("warning", "Suspect LSTM", "LSTM")
     if cusum_alarm:
-        return ("WARNING_CUSUM", "Micro-dérive CUSUM", "CUSUM")
-    return ("NORMAL", "Normal", "")
-
+        return ("warning", "Micro-dérive CUSUM", "CUSUM")
+    return ("normal", "Normal", "—")
+    
 def risk_pct(score_if: float, score_lstm: float | None,
              threshold_if: float, threshold_lstm: float | None,
              cusum_score: float = 0.0) -> float:
