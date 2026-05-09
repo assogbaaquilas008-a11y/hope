@@ -18,21 +18,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 41.4
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 40.2
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 37.8
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 41.4
       }
     ],
     "is_confirmed": true,
@@ -78,21 +63,6 @@
     "profile": "COMMERCIAL",
     "region": "CENTRE",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 37.9
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 40.2
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 38.1
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -176,31 +146,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 70.0
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF",
-        "risk_pct": 35.4
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 58.0
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
       }
     ],
     "is_confirmed": true,
@@ -260,21 +205,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 41.5
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 40.4
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 42.7
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 41.5
       }
     ],
     "is_confirmed": true,
@@ -320,41 +250,6 @@
     "profile": "RESIDENTIEL",
     "region": "SUD",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 34.8
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 35.0
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "LSTM",
-        "risk_pct": 35.0
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 35.0
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 34.6
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 35.1
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 35.8
-      },
       {
         "timestamp": "01/03/2024",
         "level": "LSTM",
@@ -463,36 +358,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 35.3
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 34.6
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.4
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.3
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.1
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.7
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 35.3
       }
     ],
     "is_confirmed": true,
@@ -538,21 +403,6 @@
     "profile": "INDUSTRIEL",
     "region": "NORD",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 38.0
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 52.6
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 43.0
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -646,41 +496,6 @@
         "timestamp": "07/03/2024",
         "level": "LSTM",
         "risk_pct": 31.7
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.2
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.5
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.0
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.9
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.3
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.8
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.7
       }
     ],
     "is_confirmed": true,
@@ -726,21 +541,6 @@
     "profile": "COMMERCIAL",
     "region": "OUEST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 40.9
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 48.2
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 43.0
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -809,16 +609,6 @@
         "timestamp": "02/03/2024",
         "level": "LSTM",
         "risk_pct": 28.8
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.6
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 28.8
       }
     ],
     "is_confirmed": true,
@@ -864,41 +654,6 @@
     "profile": "INDUSTRIEL",
     "region": "SUD",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF",
-        "risk_pct": 35.6
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF",
-        "risk_pct": 39.6
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF",
-        "risk_pct": 36.5
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 45.1
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -992,21 +747,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 42.9
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 41.5
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 46.9
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 42.9
       }
     ],
     "is_confirmed": true,
@@ -1056,14 +796,9 @@
         "timestamp": "01/03/2024",
         "level": "IF",
         "risk_pct": 35.5
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 35.5
       }
     ],
-    "is_confirmed": true,
+    "is_confirmed": false,
     "first_seen": "01/03/2024",
     "last_seen": "01/03/2024",
     "away_periods": [],
@@ -1102,21 +837,6 @@
     "profile": "COMMERCIAL",
     "region": "OUEST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 59.7
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 59.3
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 47.9
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -1190,21 +910,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 52.0
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 55.3
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 64.2
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 52.0
       }
     ],
     "is_confirmed": true,
@@ -1250,21 +955,6 @@
     "profile": "COMMERCIAL",
     "region": "EST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 36.5
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 46.9
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 38.9
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -1358,41 +1048,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 70.0
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF",
-        "risk_pct": 42.5
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF",
-        "risk_pct": 44.1
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF",
-        "risk_pct": 47.1
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 68.8
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
       }
     ],
     "is_confirmed": true,
@@ -1438,21 +1093,6 @@
     "profile": "INDUSTRIEL",
     "region": "SUD",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 55.8
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 58.1
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 48.3
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -1526,21 +1166,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 36.7
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 36.1
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 41.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 36.7
       }
     ],
     "is_confirmed": true,
@@ -1586,41 +1211,6 @@
     "profile": "AGRICOLE",
     "region": "EST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.4
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.2
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.3
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.8
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.0
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.9
-      },
       {
         "timestamp": "01/03/2024",
         "level": "LSTM",
@@ -1734,41 +1324,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 70.0
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF",
-        "risk_pct": 48.3
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF",
-        "risk_pct": 46.9
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF",
-        "risk_pct": 47.6
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 65.4
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
       }
     ],
     "is_confirmed": true,
@@ -1814,41 +1369,6 @@
     "profile": "INDUSTRIEL",
     "region": "NORD",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF",
-        "risk_pct": 46.8
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF",
-        "risk_pct": 47.0
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF",
-        "risk_pct": 48.2
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 67.9
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -1942,21 +1462,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 40.5
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 43.5
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 50.3
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 40.5
       }
     ],
     "is_confirmed": true,
@@ -2002,41 +1507,6 @@
     "profile": "RESIDENTIEL",
     "region": "OUEST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 38.5
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF",
-        "risk_pct": 37.4
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF",
-        "risk_pct": 37.9
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF",
-        "risk_pct": 37.2
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 37.8
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 39.4
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 39.6
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -2145,36 +1615,6 @@
         "timestamp": "07/03/2024",
         "level": "LSTM",
         "risk_pct": 30.9
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.0
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.8
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.1
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.3
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.3
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.9
       }
     ],
     "is_confirmed": true,
@@ -2239,26 +1679,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 42.8
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 47.7
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 36.1
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 49.6
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 42.8
       }
     ],
     "is_confirmed": true,
@@ -2304,41 +1724,6 @@
     "profile": "AGRICOLE",
     "region": "NORD",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 36.8
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF",
-        "risk_pct": 37.6
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF",
-        "risk_pct": 37.1
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 37.2
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 36.7
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 36.2
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 36.3
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF+LSTM",
@@ -2452,41 +1837,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 70.0
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF",
-        "risk_pct": 41.5
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF",
-        "risk_pct": 40.5
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF",
-        "risk_pct": 43.8
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 62.0
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
       }
     ],
     "is_confirmed": true,
@@ -2532,36 +1882,6 @@
     "profile": "AGRICOLE",
     "region": "EST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.3
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.1
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.1
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.5
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.6
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.7
-      },
       {
         "timestamp": "01/03/2024",
         "level": "LSTM",
@@ -2670,41 +1990,6 @@
         "timestamp": "07/03/2024",
         "level": "IF+LSTM",
         "risk_pct": 38.4
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 37.6
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 37.5
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 38.1
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 37.3
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 38.2
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 39.3
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 38.4
       }
     ],
     "is_confirmed": true,
@@ -2750,26 +2035,6 @@
     "profile": "COMMERCIAL",
     "region": "NORD",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 42.4
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 37.8
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 49.2
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 42.2
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -2853,26 +2118,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 54.9
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 51.6
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 36.4
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 61.6
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 54.9
       }
     ],
     "is_confirmed": true,
@@ -2918,26 +2163,6 @@
     "profile": "INDUSTRIEL",
     "region": "OUEST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 55.0
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 38.0
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 54.5
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 49.1
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -3006,14 +2231,9 @@
         "timestamp": "01/03/2024",
         "level": "LSTM",
         "risk_pct": 33.4
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 33.4
       }
     ],
-    "is_confirmed": true,
+    "is_confirmed": false,
     "first_seen": "01/03/2024",
     "last_seen": "01/03/2024",
     "away_periods": [],
@@ -3052,41 +2272,6 @@
     "profile": "RESIDENTIEL",
     "region": "SUD",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.2
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.2
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.0
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.6
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.0
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 33.3
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "LSTM",
-        "risk_pct": 34.3
-      },
       {
         "timestamp": "01/03/2024",
         "level": "LSTM",
@@ -3200,41 +2385,6 @@
         "timestamp": "07/03/2024",
         "level": "IF+LSTM",
         "risk_pct": 35.9
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 36.3
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 35.3
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 35.3
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 35.3
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 35.7
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 36.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 35.9
       }
     ],
     "is_confirmed": true,
@@ -3280,41 +2430,6 @@
     "profile": "AGRICOLE",
     "region": "NORD",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.5
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.0
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.2
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.7
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.1
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.3
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.4
-      },
       {
         "timestamp": "01/03/2024",
         "level": "LSTM",
@@ -3428,41 +2543,6 @@
         "timestamp": "07/03/2024",
         "level": "IF+LSTM",
         "risk_pct": 39.2
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 37.1
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 36.8
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 38.2
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 37.4
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 38.0
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 39.9
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 39.2
       }
     ],
     "is_confirmed": true,
@@ -3508,41 +2588,6 @@
     "profile": "INDUSTRIEL",
     "region": "NORD",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF",
-        "risk_pct": 54.7
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF",
-        "risk_pct": 49.9
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF",
-        "risk_pct": 47.3
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -3636,21 +2681,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 52.9
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 49.4
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 60.3
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 52.9
       }
     ],
     "is_confirmed": true,
@@ -3710,21 +2740,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 41.9
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 45.8
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 53.2
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 41.9
       }
     ],
     "is_confirmed": true,
@@ -3770,26 +2785,6 @@
     "profile": "INDUSTRIEL",
     "region": "SUD",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 54.9
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 35.2
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 57.4
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 51.4
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -3873,26 +2868,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 47.0
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 48.6
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 36.6
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 50.1
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 47.0
       }
     ],
     "is_confirmed": true,
@@ -3938,21 +2913,6 @@
     "profile": "INDUSTRIEL",
     "region": "CENTRE",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 41.9
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 48.6
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 42.0
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -4026,21 +2986,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 38.4
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 36.1
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 38.1
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 38.4
       }
     ],
     "is_confirmed": true,
@@ -4086,21 +3031,6 @@
     "profile": "COMMERCIAL",
     "region": "EST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 36.4
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 41.5
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 35.9
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -4194,41 +3124,6 @@
         "timestamp": "07/03/2024",
         "level": "LSTM",
         "risk_pct": 30.3
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.3
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.4
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.4
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.3
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.5
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.5
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.3
       }
     ],
     "is_confirmed": true,
@@ -4274,21 +3169,6 @@
     "profile": "COMMERCIAL",
     "region": "CENTRE",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 36.1
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 36.9
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 36.4
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -4367,26 +3247,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 70.0
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 40.8
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
       }
     ],
     "is_confirmed": true,
@@ -4432,36 +3292,6 @@
     "profile": "AGRICOLE",
     "region": "CENTRE",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.0
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "LSTM",
-        "risk_pct": 33.1
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.7
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 29.9
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.2
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.4
-      },
       {
         "timestamp": "01/03/2024",
         "level": "LSTM",
@@ -4560,31 +3390,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 63.4
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 61.5
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF",
-        "risk_pct": 37.1
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 46.4
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 69.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 63.4
       }
     ],
     "is_confirmed": true,
@@ -4630,21 +3435,6 @@
     "profile": "INDUSTRIEL",
     "region": "OUEST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 35.7
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 52.2
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 36.8
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -4733,36 +3523,6 @@
         "timestamp": "06/03/2024",
         "level": "LSTM",
         "risk_pct": 30.7
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.9
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.9
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.3
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.1
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 29.7
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.7
       }
     ],
     "is_confirmed": true,
@@ -4808,21 +3568,6 @@
     "profile": "INDUSTRIEL",
     "region": "EST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 53.8
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 60.4
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -4896,21 +3641,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 40.0
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 40.8
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 42.3
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 40.0
       }
     ],
     "is_confirmed": true,
@@ -4956,41 +3686,6 @@
     "profile": "AGRICOLE",
     "region": "EST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 33.1
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 33.8
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.7
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.7
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.1
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.2
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.4
-      },
       {
         "timestamp": "01/03/2024",
         "level": "LSTM",
@@ -5089,26 +3784,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 67.0
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 68.0
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 39.9
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 67.0
       }
     ],
     "is_confirmed": true,
@@ -5154,31 +3829,6 @@
     "profile": "AGRICOLE",
     "region": "OUEST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.0
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.1
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.3
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.2
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.2
-      },
       {
         "timestamp": "01/03/2024",
         "level": "LSTM",
@@ -5272,31 +3922,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 70.0
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF",
-        "risk_pct": 37.5
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 58.4
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
       }
     ],
     "is_confirmed": true,
@@ -5356,21 +3981,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 37.0
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 37.1
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 47.7
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 37.0
       }
     ],
     "is_confirmed": true,
@@ -5416,41 +4026,6 @@
     "profile": "INDUSTRIEL",
     "region": "EST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 38.6
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF",
-        "risk_pct": 38.0
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF",
-        "risk_pct": 37.8
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF",
-        "risk_pct": 36.5
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 38.2
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 37.9
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 38.8
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -5549,26 +4124,6 @@
         "timestamp": "06/03/2024",
         "level": "LSTM",
         "risk_pct": 30.7
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.1
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.2
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.0
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.7
       }
     ],
     "is_confirmed": true,
@@ -5628,21 +4183,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 42.6
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 45.6
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 59.2
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 42.6
       }
     ],
     "is_confirmed": true,
@@ -5688,41 +4228,6 @@
     "profile": "INDUSTRIEL",
     "region": "CENTRE",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF",
-        "risk_pct": 45.0
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF",
-        "risk_pct": 44.2
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF",
-        "risk_pct": 48.2
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 68.1
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -5826,31 +4331,6 @@
         "timestamp": "07/03/2024",
         "level": "IF+LSTM",
         "risk_pct": 36.6
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 35.2
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF",
-        "risk_pct": 35.3
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 35.4
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 36.3
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 36.6
       }
     ],
     "is_confirmed": true,
@@ -5896,26 +4376,6 @@
     "profile": "AGRICOLE",
     "region": "CENTRE",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.3
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.0
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.5
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.6
-      },
       {
         "timestamp": "01/03/2024",
         "level": "LSTM",
@@ -5994,21 +4454,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 56.3
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 52.6
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 56.3
       }
     ],
     "is_confirmed": true,
@@ -6054,21 +4499,6 @@
     "profile": "INDUSTRIEL",
     "region": "CENTRE",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 53.5
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 54.6
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 47.5
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -6142,21 +4572,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 37.9
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 41.2
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 41.9
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 37.9
       }
     ],
     "is_confirmed": true,
@@ -6202,21 +4617,6 @@
     "profile": "COMMERCIAL",
     "region": "EST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 38.8
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 44.7
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 40.7
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -6310,41 +4710,6 @@
         "timestamp": "07/03/2024",
         "level": "LSTM",
         "risk_pct": 32.0
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.5
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.2
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.4
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.2
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.1
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.1
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.0
       }
     ],
     "is_confirmed": true,
@@ -6390,21 +4755,6 @@
     "profile": "COMMERCIAL",
     "region": "SUD",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 38.0
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 38.2
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 35.8
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -6473,16 +4823,6 @@
         "timestamp": "06/03/2024",
         "level": "IF",
         "risk_pct": 40.7
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 35.2
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 40.7
       }
     ],
     "is_confirmed": true,
@@ -6532,14 +4872,9 @@
         "timestamp": "01/03/2024",
         "level": "LSTM",
         "risk_pct": 31.0
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.0
       }
     ],
-    "is_confirmed": true,
+    "is_confirmed": false,
     "first_seen": "01/03/2024",
     "last_seen": "01/03/2024",
     "away_periods": [],
@@ -6578,41 +4913,6 @@
     "profile": "RESIDENTIEL",
     "region": "SUD",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 35.1
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 35.2
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 35.6
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 36.5
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 36.2
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 35.5
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 36.3
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF+LSTM",
@@ -6721,36 +5021,6 @@
         "timestamp": "07/03/2024",
         "level": "LSTM",
         "risk_pct": 30.4
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.6
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.2
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.0
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.6
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.3
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.4
       }
     ],
     "is_confirmed": true,
@@ -6796,26 +5066,6 @@
     "profile": "COMMERCIAL",
     "region": "SUD",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 39.6
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF",
-        "risk_pct": 36.6
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 47.5
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 46.5
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -6914,41 +5164,6 @@
         "timestamp": "07/03/2024",
         "level": "LSTM",
         "risk_pct": 30.8
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.2
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.0
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.5
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.5
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.9
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.5
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.8
       }
     ],
     "is_confirmed": true,
@@ -6994,21 +5209,6 @@
     "profile": "COMMERCIAL",
     "region": "SUD",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 43.5
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 49.5
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 44.1
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -7097,36 +5297,6 @@
         "timestamp": "07/03/2024",
         "level": "LSTM",
         "risk_pct": 31.5
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.2
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 29.9
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "LSTM",
-        "risk_pct": 29.7
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 29.9
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.9
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.5
       }
     ],
     "is_confirmed": true,
@@ -7172,21 +5342,6 @@
     "profile": "INDUSTRIEL",
     "region": "EST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 56.1
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 69.2
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -7265,26 +5420,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 61.9
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 61.7
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 42.5
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 61.9
       }
     ],
     "is_confirmed": true,
@@ -7344,21 +5479,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 35.2
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 37.7
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 42.6
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 35.2
       }
     ],
     "is_confirmed": true,
@@ -7404,26 +5524,6 @@
     "profile": "COMMERCIAL",
     "region": "EST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 62.3
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 40.0
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 64.8
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 54.5
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -7522,41 +5622,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 70.0
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF",
-        "risk_pct": 53.0
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF",
-        "risk_pct": 52.7
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF",
-        "risk_pct": 51.0
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
       }
     ],
     "is_confirmed": true,
@@ -7602,26 +5667,6 @@
     "profile": "COMMERCIAL",
     "region": "SUD",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 49.0
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 35.6
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 48.1
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 42.5
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -7720,41 +5765,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 70.0
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF",
-        "risk_pct": 36.6
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF",
-        "risk_pct": 36.5
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF",
-        "risk_pct": 42.6
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 62.6
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
       }
     ],
     "is_confirmed": true,
@@ -7800,26 +5810,6 @@
     "profile": "INDUSTRIEL",
     "region": "OUEST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 68.0
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 39.9
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 63.8
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 55.4
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -7918,41 +5908,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 38.1
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 37.7
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 36.9
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 36.5
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 36.6
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 36.8
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 36.4
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 38.1
       }
     ],
     "is_confirmed": true,
@@ -7998,26 +5953,6 @@
     "profile": "INDUSTRIEL",
     "region": "EST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 61.1
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 37.2
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 64.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 59.6
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -8096,21 +6031,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 49.9
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 54.1
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 67.7
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 49.9
       }
     ],
     "is_confirmed": true,
@@ -8156,41 +6076,6 @@
     "profile": "INDUSTRIEL",
     "region": "EST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF",
-        "risk_pct": 48.7
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF",
-        "risk_pct": 46.6
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF",
-        "risk_pct": 45.4
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -8289,26 +6174,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 55.0
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 46.4
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 37.0
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 57.2
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 55.0
       }
     ],
     "is_confirmed": true,
@@ -8354,21 +6219,6 @@
     "profile": "COMMERCIAL",
     "region": "EST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 41.5
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 39.3
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 36.7
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -8462,41 +6312,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 70.0
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF",
-        "risk_pct": 44.5
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF",
-        "risk_pct": 48.9
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF",
-        "risk_pct": 51.4
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 60.1
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
       }
     ],
     "is_confirmed": true,
@@ -8542,21 +6357,6 @@
     "profile": "INDUSTRIEL",
     "region": "NORD",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 55.8
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 60.6
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 60.9
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -8635,26 +6435,6 @@
         "timestamp": "07/03/2024",
         "level": "IF",
         "risk_pct": 44.3
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 44.8
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 35.7
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 44.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 44.3
       }
     ],
     "is_confirmed": true,
@@ -8700,41 +6480,6 @@
     "profile": "INDUSTRIEL",
     "region": "OUEST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "IF",
-        "risk_pct": 52.0
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF",
-        "risk_pct": 50.1
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "IF",
-        "risk_pct": 50.9
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 70.0
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF",
@@ -8848,41 +6593,6 @@
         "timestamp": "07/03/2024",
         "level": "LSTM",
         "risk_pct": 33.3
-      },
-      {
-        "timestamp": "01/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.9
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 34.5
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "LSTM",
-        "risk_pct": 34.2
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 33.2
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 33.1
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 33.0
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "LSTM",
-        "risk_pct": 33.3
       }
     ],
     "is_confirmed": true,
@@ -8928,41 +6638,6 @@
     "profile": "COMMERCIAL",
     "region": "EST",
     "detections": [
-      {
-        "timestamp": "01/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 35.4
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 34.9
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 35.5
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 34.8
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 35.1
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 36.3
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF+LSTM",
-        "risk_pct": 36.9
-      },
       {
         "timestamp": "01/03/2024",
         "level": "IF+LSTM",
@@ -9046,14 +6721,9 @@
         "timestamp": "02/03/2024",
         "level": "LSTM",
         "risk_pct": 32.6
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.6
       }
     ],
-    "is_confirmed": true,
+    "is_confirmed": false,
     "first_seen": "02/03/2024",
     "last_seen": "02/03/2024",
     "away_periods": [],
@@ -9096,14 +6766,9 @@
         "timestamp": "02/03/2024",
         "level": "LSTM",
         "risk_pct": 30.9
-      },
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.9
       }
     ],
-    "is_confirmed": true,
+    "is_confirmed": false,
     "first_seen": "02/03/2024",
     "last_seen": "02/03/2024",
     "away_periods": [],
@@ -9142,21 +6807,6 @@
     "profile": "AGRICOLE",
     "region": "EST",
     "detections": [
-      {
-        "timestamp": "02/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.1
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.8
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.8
-      },
       {
         "timestamp": "02/03/2024",
         "level": "LSTM",
@@ -9235,26 +6885,6 @@
         "timestamp": "07/03/2024",
         "level": "LSTM",
         "risk_pct": 32.5
-      },
-      {
-        "timestamp": "03/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.3
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.2
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 30.3
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.5
       }
     ],
     "is_confirmed": true,
@@ -9300,21 +6930,6 @@
     "profile": "RESIDENTIEL",
     "region": "NORD",
     "detections": [
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 29.3
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 29.7
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.3
-      },
       {
         "timestamp": "04/03/2024",
         "level": "LSTM",
@@ -9393,26 +7008,6 @@
         "timestamp": "07/03/2024",
         "level": "LSTM",
         "risk_pct": 31.6
-      },
-      {
-        "timestamp": "04/03/2024",
-        "level": "LSTM",
-        "risk_pct": 29.6
-      },
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 29.5
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.3
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.6
       }
     ],
     "is_confirmed": true,
@@ -9458,21 +7053,6 @@
     "profile": "RESIDENTIEL",
     "region": "EST",
     "detections": [
-      {
-        "timestamp": "05/03/2024",
-        "level": "LSTM",
-        "risk_pct": 32.1
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.8
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "LSTM",
-        "risk_pct": 34.5
-      },
       {
         "timestamp": "05/03/2024",
         "level": "LSTM",
@@ -9536,14 +7116,9 @@
         "timestamp": "06/03/2024",
         "level": "IF",
         "risk_pct": 38.3
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 38.3
       }
     ],
-    "is_confirmed": true,
+    "is_confirmed": false,
     "first_seen": "06/03/2024",
     "last_seen": "06/03/2024",
     "away_periods": [],
@@ -9586,14 +7161,9 @@
         "timestamp": "06/03/2024",
         "level": "LSTM",
         "risk_pct": 31.3
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.3
       }
     ],
-    "is_confirmed": true,
+    "is_confirmed": false,
     "first_seen": "06/03/2024",
     "last_seen": "06/03/2024",
     "away_periods": [],
@@ -9636,14 +7206,9 @@
         "timestamp": "06/03/2024",
         "level": "LSTM",
         "risk_pct": 31.8
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.8
       }
     ],
-    "is_confirmed": true,
+    "is_confirmed": false,
     "first_seen": "06/03/2024",
     "last_seen": "06/03/2024",
     "away_periods": [],
@@ -9686,14 +7251,9 @@
         "timestamp": "06/03/2024",
         "level": "LSTM",
         "risk_pct": 31.1
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "LSTM",
-        "risk_pct": 31.1
       }
     ],
-    "is_confirmed": true,
+    "is_confirmed": false,
     "first_seen": "06/03/2024",
     "last_seen": "06/03/2024",
     "away_periods": [],
@@ -9736,14 +7296,9 @@
         "timestamp": "06/03/2024",
         "level": "IF",
         "risk_pct": 40.5
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 40.5
       }
     ],
-    "is_confirmed": true,
+    "is_confirmed": false,
     "first_seen": "06/03/2024",
     "last_seen": "06/03/2024",
     "away_periods": [],
@@ -9786,14 +7341,9 @@
         "timestamp": "06/03/2024",
         "level": "IF",
         "risk_pct": 38.7
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 38.7
       }
     ],
-    "is_confirmed": true,
+    "is_confirmed": false,
     "first_seen": "06/03/2024",
     "last_seen": "06/03/2024",
     "away_periods": [],
@@ -9832,16 +7382,6 @@
     "profile": "COMMERCIAL",
     "region": "NORD",
     "detections": [
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 41.9
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 35.4
-      },
       {
         "timestamp": "06/03/2024",
         "level": "IF",
@@ -9900,14 +7440,9 @@
         "timestamp": "06/03/2024",
         "level": "IF",
         "risk_pct": 35.8
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 35.8
       }
     ],
-    "is_confirmed": true,
+    "is_confirmed": false,
     "first_seen": "06/03/2024",
     "last_seen": "06/03/2024",
     "away_periods": [],
@@ -9950,14 +7485,9 @@
         "timestamp": "06/03/2024",
         "level": "IF",
         "risk_pct": 40.7
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 40.7
       }
     ],
-    "is_confirmed": true,
+    "is_confirmed": false,
     "first_seen": "06/03/2024",
     "last_seen": "06/03/2024",
     "away_periods": [],
@@ -10000,14 +7530,9 @@
         "timestamp": "06/03/2024",
         "level": "IF",
         "risk_pct": 36.6
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 36.6
       }
     ],
-    "is_confirmed": true,
+    "is_confirmed": false,
     "first_seen": "06/03/2024",
     "last_seen": "06/03/2024",
     "away_periods": [],
@@ -10050,14 +7575,9 @@
         "timestamp": "06/03/2024",
         "level": "IF",
         "risk_pct": 50.2
-      },
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 50.2
       }
     ],
-    "is_confirmed": true,
+    "is_confirmed": false,
     "first_seen": "06/03/2024",
     "last_seen": "06/03/2024",
     "away_periods": [],
@@ -10096,16 +7616,6 @@
     "profile": "COMMERCIAL",
     "region": "OUEST",
     "detections": [
-      {
-        "timestamp": "06/03/2024",
-        "level": "IF",
-        "risk_pct": 36.2
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "IF",
-        "risk_pct": 36.0
-      },
       {
         "timestamp": "06/03/2024",
         "level": "IF",
@@ -10164,14 +7674,9 @@
         "timestamp": "07/03/2024",
         "level": "LSTM",
         "risk_pct": 33.2
-      },
-      {
-        "timestamp": "07/03/2024",
-        "level": "LSTM",
-        "risk_pct": 33.2
       }
     ],
-    "is_confirmed": true,
+    "is_confirmed": false,
     "first_seen": "07/03/2024",
     "last_seen": "07/03/2024",
     "away_periods": [],
